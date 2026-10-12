@@ -1,0 +1,163 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nova Legion - Privacy Policy</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f8fc;
+      color: #243447;
+      line-height: 1.7;
+    }
+    header {
+      background: #173c68;
+      color: white;
+      padding: 44px 20px;
+      text-align: center;
+    }
+    header h1 { margin: 0; }
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 35px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 3px 18px #0000000d;
+    }
+    h2 {
+      color: #174c85;
+      margin-top: 30px;
+    }
+    a { color: #1769b0; }
+    footer {
+      text-align: center;
+      padding: 25px;
+      color: #62758b;
+    }
+    @media (max-width: 600px) {
+      main { margin: 12px; padding: 22px; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nova Legion</h1>
+    <p>Privacy Policy | Rune and Rivet Studios</p>
+  </header>
+
+  <main>
+    <p><strong>Effective date:</strong> October 12, 2026</p>
+
+    <h2>1. Introduction</h2>
+    <p>
+      Rune and Rivet Studios respects your privacy.
+      This Privacy Policy explains how Nova Legion,
+      our Android game, handles information.
+    </p>
+
+    <h2>2. Information We Collect</h2>
+    <p>
+      Nova Legion does not require account registration
+      and is not designed to collect personal information
+      from players.
+    </p>
+    <p>
+      The game does not include advertising or analytics
+      services. Rune and Rivet Studios does not operate
+      a game server that receives player progress.
+    </p>
+
+    <h2>3. Game Progress and Local Storage</h2>
+    <p>
+      Nova Legion stores game progress, earned coins,
+      unlocked equipment, and other gameplay preferences
+      locally on the player's device.
+    </p>
+    <p>
+      This information is used to save and restore
+      gameplay progress.
+    </p>
+
+    <h2>4. Android Backup and Restore</h2>
+    <p>
+      Depending on the player's device settings and
+      Android backup configuration, eligible local game
+      data may be backed up and restored through
+      Android's system backup services.
+    </p>
+    <p>
+      Such backups are managed by the device's operating
+      system and backup provider, not by a cloud-save
+      service operated by Rune and Rivet Studios.
+    </p>
+
+    <h2>5. Advertising and Purchases</h2>
+    <p>
+      Nova Legion does not display advertisements
+      and does not offer in-app purchases.
+      Any initial purchase of the game is handled
+      by the app store.
+    </p>
+
+    <h2>6. Children's Privacy</h2>
+    <p>
+      Nova Legion is intended for a broad audience,
+      including children. The game does not require
+      children to provide personal information,
+      create accounts, or communicate with other players.
+    </p>
+    <p>
+      Rune and Rivet Studios is committed to following
+      applicable children's privacy requirements.
+    </p>
+
+    <h2>7. Data Sharing</h2>
+    <p>
+      Rune and Rivet Studios does not sell player
+      information or intentionally share player data
+      with advertisers or analytics providers.
+    </p>
+    <p>
+      Android system backup and app-store transactions
+      may involve separate services governed by their
+      respective privacy policies.
+    </p>
+
+    <h2>8. Data Retention and Deletion</h2>
+    <p>
+      Gameplay progress is stored locally and can be
+      removed through the game's reset functionality
+      or by clearing the application's storage.
+      Uninstalling the game generally removes local
+      application data, although system-managed backups
+      may remain subject to the backup provider's
+      retention and deletion practices.
+    </p>
+
+    <h2>9. Changes to This Policy</h2>
+    <p>
+      We may update this Privacy Policy if the game's
+      features or data practices change. Updates will
+      be published on this page with a revised date.
+    </p>
+
+    <h2>10. Contact Us</h2>
+    <p>
+      For privacy questions, contact Rune and Rivet
+      Studios at:
+      <a href="mailto:runeandrivetstudios@gmail.com">
+        runeandrivetstudios@gmail.com
+      </a>
+    </p>
+  </main>
+
+  <footer>
+    &copy; 2026 Rune and Rivet Studios.
+    All rights reserved.
+  </footer>
+</body>
+</html>
